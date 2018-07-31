@@ -1,7 +1,7 @@
 //
 //
 //  AppDelegate.swift
-//  calculator
+//  Quizzler
 //
 //  Created by Kunapot Pairat on 29/7/2561 BE.
 //  Copyright © 2561 Kunapot Pairat. All rights reserved.
