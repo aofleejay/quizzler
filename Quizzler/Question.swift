@@ -3,7 +3,7 @@
 //  Quizzler
 //
 //  Created by Kunapot Pairat on 29/7/2561 BE.
-//  Copyright © 2561 London App Brewery. All rights reserved.
+//  Copyright © 2561 Kunapot Pairat. All rights reserved.
 //
 
 import Foundation
